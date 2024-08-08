@@ -243,6 +243,24 @@
       <type>Boolean</type>
       <default>true</default>
     </parameter>
+    <parameter id="PaletteName">
+      <description>
+        <name>Palette Name</name>
+        <description>-</description>
+        <language>eng</language>
+      </description>
+      <type>String</type>
+      <default>Day</default>
+    </parameter>
+    <parameter id="NonNavigableAreaPattern">
+      <description>
+        <name>NonNavigableArea Pattern</name>
+        <description>-</description>
+        <language>eng</language>
+      </description>
+      <type>Boolean</type>
+      <default>true</default>
+    </parameter>
   </context>
 
   <rules>
