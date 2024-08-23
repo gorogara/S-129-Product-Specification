@@ -398,7 +398,7 @@
 				<blue>3</blue>
 			</srgb>
 		</item>
-		<item token="DEPCN">
+		<item token="DEPCN" transparency="1.0">
 			<cie>
 				<xyL>
 					<x>0.28</x>
